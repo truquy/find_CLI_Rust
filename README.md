@@ -1,5 +1,5 @@
 README.md
 
-# copy_CLI_Rust
+# find_CLI_Rust
 2024/11/25
-This project will copy the contains of a given file to another file.
+This project will return the first line exactly match the find_text in the given file name if the find_text in the CLI is found in the filename. 
