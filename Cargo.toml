@@ -1,0 +1,14 @@
+[package]
+name = "rust_CLI"
+version = "0.1.0"
+edition = "2021"
+
+license-file = "LICENSE.txt"
+description = "copy contains of given file to another."
+homepage = "https://github.com/truquy"
+repository = https://github.com/truquy/find_CLI_Rust
+
+[dependencies]
+
+clap = { version = "4.0", features = ["derive"] }
+regex = "1.3.9"

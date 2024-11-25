@@ -1,0 +1,2 @@
+license.txt
+This is nonstandard license. I was made to use for pushing project to createIO website for Rust
